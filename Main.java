@@ -72,7 +72,7 @@ public class Main {
                 break;
             
             default:
-                System.out.println("Apa Itu Masbro?");
+                System.out.println("Rumus Belum Ditambahan / Tidak Ada Rumus");
         }
     }
 }
